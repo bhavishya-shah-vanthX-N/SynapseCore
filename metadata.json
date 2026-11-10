@@ -1,0 +1,6 @@
+{
+  "name": "SynapseCore - Neurotech & BCI Intelligence Engine",
+  "description": "Advanced search engine and collaborative intelligence platform for neurotech engineers, neurosurgeons, and researchers across BCI, real-time neural decoding, robotics, and biochips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
